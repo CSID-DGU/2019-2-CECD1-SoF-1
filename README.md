@@ -25,8 +25,8 @@
 
 #  유의사항
 - 데이터베이스에 데이터가 없기 때문에 시각화가 제대로 되지 않을 것입니다. 
-- 따라서, https://github.com/wdj0729/crawler_project 링크로 이동해서 README.md에 따라 파일을 다운로한 후 크롤러를 실행해서 데이터베이스에 데이터를 넣어주세요
+- 따라서, 먼저 https://github.com/wdj0729/crawler_project 링크로 이동해서 README.md에 따라 파일을 다운로한 후 크롤러를 실행해서 데이터베이스에 데이터를 넣어주세요
 
 # 프로젝트 설명
 
-* 유튜브 시연 영상(2분)         : https://www.youtube.com/watch?v=bSLYJSd1l7o
+* 유튜브 시연 영상(3분30초)         : https://www.youtube.com/watch?v=JUu_wd3LRzs
