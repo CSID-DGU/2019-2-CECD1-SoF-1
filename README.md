@@ -29,6 +29,6 @@
 
 # 프로젝트 설명
 
-* 유튜브 발표 영상(5분28초)         : https://www.youtube.com/watch?v=MNTyilVEdto
+* 유튜브 발표 및 시연 영상(5분17초)         : https://youtu.be/O0JS3voelns
 
 * 유튜브 시연 영상(2분28초)         : https://www.youtube.com/watch?v=AizL9DqB8v8
