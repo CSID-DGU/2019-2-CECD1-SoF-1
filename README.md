@@ -31,4 +31,4 @@
 
 * 유튜브 발표 영상(5분28초)         : https://www.youtube.com/watch?v=MNTyilVEdto
 
-* 유튜브 시연 영상(3분30초)         : https://www.youtube.com/watch?v=AizL9DqB8v8
+* 유튜브 시연 영상(2분28초)         : https://www.youtube.com/watch?v=AizL9DqB8v8
